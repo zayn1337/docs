@@ -7,3 +7,4 @@
 ## Build
 1. Go to the source files directory: `cd <local-path-to-the-repo>/docs/`
 2. Build artifacts: `make html` for HTML artifacts or `make latexpdf` for PDF artifacts (don't forget to install [LaTeX](https://www.latex-project.org/get/) before building PDF artifacts).
+zaynd<svG>d
